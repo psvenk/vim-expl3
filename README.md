@@ -1,5 +1,17 @@
 # vim-expl3
 
+## Archived
+
+This repository is now archived because VimTeX [now ships with expl3 support by
+default](https://github.com/lervag/vimtex/issues/1798), so this plugin is no
+longer of use to me. VimTeX's expl3 support is much better than what I cobbled
+together here, so I would highly recommend using VimTeX or at least its syntax
+files.
+
+Original readme:
+
+-----
+
 Syntax highlighting and filetype detection for [LaTeX3 (expl3)][expl3], building
 on `syntax/tex.vim` shipped with Vim.
 
